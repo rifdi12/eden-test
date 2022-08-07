@@ -25,26 +25,6 @@ setelah pengecekan flutter berjalan lancar, jalankan command dibawah untuk menja
 flutter run
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running unit tests
-
-Untuk melakukan unit test jalankan command dibawah
-
-```
-flutter test
-```
-
-Pastikan sebelum menjalankan command diatas anda sudah berada di folder project
-
-## Running UI Test
-
-Untuk melakukan UI Test jalankan command dibawah
-
-```
-flutter test integration_test
-```
-
 ### Ucapan Terimakasih
 
 Terimakasih atas ketertarikan dan telah mengundang saya untuk melakukan Technical Test
